@@ -1,7 +1,7 @@
 # exo-python
 
-#variable
-#list_tuple
-#fonction
+#variables
+#listes_tuples
+#fonctions
 #boucles
 #conditions
